@@ -1,0 +1,7 @@
+﻿  IntanDAQ.cpp
+d:\onedrive\program\vs2017\intandaq\intandaq\intandaq.cpp(86): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+d:\onedrive\program\vs2017\intandaq\intandaq\intandaq.cpp(32): warning C4101: 'register59Value' :참조되지 않은 지역 변수입니다.
+  rhd2000evalboard.cpp
+d:\onedrive\program\vs2017\intandaq\intandaq\rhd2000evalboard.cpp(1405): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+  IntanDAQ.vcxproj -> D:\OneDrive\Program\VS2017\IntanDAQ\Debug\IntanDAQ.exe
